@@ -11,3 +11,12 @@ branch
 check out: branch끼리 이동
 
 this is branch test
+
+pull request
+
+ADD FIX EDIT
+
+Jira 지라: 프로젝트 관리
+지라에서 쓰는 티켓의 넘버를 커밋 메세지에 작성. 서로 연동됨
+
+공통적으로 알잘딱 커밋 내용을 
