@@ -1,1 +1,13 @@
 welcome to 33lab
+git에 올리기 전에
+1. stage File
+2. commit
+3. pysh
+
+fetch: git remote에 있는 정보를 가져오는 것
+pull: 코드 전체 다 가져옴
+
+branch
+check out: branch끼리 이동
+
+this is branch test
